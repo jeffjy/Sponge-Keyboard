@@ -7,8 +7,7 @@
 </p>
 
 <h2> demo <h2>
-  https://user-images.githubusercontent.com/assets/56c60e04-9b89-4d60-b670-62ab1eba9b8b
-
+<video src="demo.mp4" width="320" height="240" controls></video>
 
 <h2>how i did it</h2>
 <p>
