@@ -7,7 +7,7 @@
 </p>
 
 <h2> demo <h2>
-https://github.com/user-attachments/assets/56c60e04-9b89-4d60-b670-62ab1eba9b8b
+  https://user-images.githubusercontent.com/assets/56c60e04-9b89-4d60-b670-62ab1eba9b8b
 
 
 <h2>how i did it</h2>
