@@ -21,9 +21,6 @@ the keyboard extension is the actual typing surface that shows keys, randomizes 
 both the app and the keyboard share preferences through an app group so the keyboard knows which plug-ins you enabled.
 </p>
 
-<img src="landing-screen.png" alt="Host App Landing Screen">
-<img src="keyboard.png" alt="Custom Keyboard Extension">
-
 <p>
 under the hood, the keyboard builds its UI programmatically, manages caps state, handles key taps/long presses, and draws a suggestion bar that mixes spellcheck/autocomplete with plug-in suggestions. 
 text state is tracked by a helper so extensions can modify or react to what you type, while dictionaries and bigram data files power autocomplete, corrections, and next-word predictions.
@@ -38,8 +35,6 @@ when you finish a prefix, the system quickly gathers all possible words that liv
 results are then filtered so they actually start with the prefix you typed, and sorted so shorter words come first (then alphabetically if tied). 
 helpers make it easy to cap results, and while the query object has options like case-sensitivity and exact matching, right now only the max results limit is actually used.
 </p>
-
-<img src="trie-diagram.png" alt="Trie Structure Diagram">
 
 <h2>dive into TrieNode</h2>
 
