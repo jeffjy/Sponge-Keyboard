@@ -1,43 +1,16 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>README - iOS Pattern Caps Keyboard</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-:root {
-  --bg:#ffffff;--fg:#111827;--muted:#6b7280;--link:#2563eb;--border:#e5e7eb;--codebg:#f3f4f6
-}
-@media (prefers-color-scheme: dark){
-  :root {
-    --bg:#0f172a;--fg:#e5e7eb;--muted:#94a3b8;--link:#60a5fa;--border:#1f2937;--codebg:#1e293b
-  }
-}
-body {margin:0;padding:0;font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial;background:var(--bg);color:var(--fg)}
-.container {max-width:900px;margin:0 auto;padding:40px 20px}
-h1,h2 {margin-top:1.5em}
-p {margin:1em 0}
-a {color:var(--link);text-decoration:none}
-a:hover {text-decoration:underline}
-pre,code {background:var(--codebg);padding:2px 6px;border-radius:6px}
-pre {display:block;overflow:auto;padding:12px}
-img, video {max-width:100%;margin:20px 0;border-radius:8px;border:1px solid var(--border)}
-</style>
-</head>
-<body>
-<div class="container">
-
 <h1>Pattern Caps Keyboard</h1>
 
 <p>
-  i got inspired by mkbhd’s tweet reply <a href="#">linked here</a>:
+  i got inspired by mkbhd’s tweet reply <a href="#">linked here ![tweet photo](mkbhd_tweet.png)
+</a>:
 </p>
 
 <p>
   so i made an iOS keyboard extension that auto-writes random pattern caps lock 
 </p>
 
-<video controls src="demo.mov" poster="mkbhd_tweet.png"></video>
+<h2> demo <h2>
+<video src="demo.mp4" controls></video>
 
 <h2>how i did it</h2>
 
