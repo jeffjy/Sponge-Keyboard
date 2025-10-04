@@ -36,7 +36,7 @@ results are then filtered so they actually start with the prefix you typed, and 
 helpers make it easy to cap results, and while the query object has options like case-sensitivity and exact matching, right now only the max results limit is actually used.
 </p>
 
-<h2>dive into TrieNode</h2>
+<h2>the TrieNode thing</h2>
 
 <p>
 each <code>TrieNode</code> is an immutable building block of that tree. 
