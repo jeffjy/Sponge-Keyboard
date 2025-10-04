@@ -1,6 +1,6 @@
 <h1>Pattern Caps Keyboard</h1>
 
-  i got inspired by mkbhd’s tweet reply <br> ![tweet photo](/mkbhd_tweet.png)
+  i got inspired by mkbhd’s tweet reply ![tweet photo](/mkbhd_tweet.png)
 
 <p>
   so i made an iOS keyboard extension that auto-writes random pattern caps lock 
