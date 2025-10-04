@@ -8,11 +8,10 @@
 
 <h2> demo <h2>
 <video src="demo.mp4" controls></video>
-https://github.com/jeffjy/Sponge-Keyboard/blob/main/demo.mov
-
+[https://github.com/jeffjy/Sponge-Keyboard/blob/main/demo.mov
+](https://github.com/user-attachments/assets/df4732ad-ad53-4a1b-8a57-0d88f579a75e)
+  
 <h2>how i did it</h2>
-
-
 <p>
 the project is split into two parts: a host iOS app and a custom keyboard extension. 
 the host app is just the landing screen plus a settings page where you can enable keyboard plug-ins. 
