@@ -1,7 +1,7 @@
 <h1>Pattern Caps Keyboard</h1>
 
 <p>
-  i got inspired by mkbhd’s tweet reply <a href="#">linked here ![tweet photo](mkbhd_tweet.png)
+  i got inspired by mkbhd’s tweet reply <a href="#">linked here ![tweet photo](/mkbhd_tweet.png)
 </a>:
 </p>
 
