@@ -7,8 +7,8 @@
 </p>
 
 <h2> demo <h2>
-https://github.com/user-attachments/assets/68391727-99f2-40a8-a424-f56641d2e7fb
-  
+<p>https://github.com/user-attachments/assets/68391727-99f2-40a8-a424-f56641d2e7fb</p>
+ 
 <h2>how i did it</h2>
 <p>
 the project is split into two parts: a host iOS app and a custom keyboard extension. 
