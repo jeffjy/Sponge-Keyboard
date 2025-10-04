@@ -7,8 +7,9 @@
 </p>
 
 <h2> demo <h2>
-https://github.com/user-attachments/assets/68391727-99f2-40a8-a424-f56641d2e7fb
-
+[https://github.com/user-attachments/assets/68391727-99f2-40a8-a424-f56641d2e7fb
+](https://github-production-user-asset-6210df.s3.amazonaws.com/81426655/497415310-68391727-99f2-40a8-a424-f56641d2e7fb.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251004%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251004T073627Z&X-Amz-Expires=300&X-Amz-Signature=d001b248f351d3f931deab6f349034fe2dc0d5f9f6ee1480291c20fabb7db807&X-Amz-SignedHeaders=host)
+  
 <h2>how i did it</h2>
 <p>
 the project is split into two parts: a host iOS app and a custom keyboard extension. 
