@@ -7,7 +7,7 @@
 </p>
 
 <h2> demo <h2>
-<video src="demo.mp4" width="320" height="240" controls></video>
+https://github.com/jeffjy/Sponge-Keyboard/assets/c79e6725-9f04-4b75-a3ed-dbefad9ad520
 
 <h2>how i did it</h2>
 <p>
